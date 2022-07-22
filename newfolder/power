@@ -1,7 +1,0 @@
-# This is a simple program using parameters to calculate a value to the power of something
-
-def power(base, exponent):
-  result = base ** exponent
-    print "%d to the power of %d is %d." % (base, exponent, result)
-
-power (_, _) #Add values here
